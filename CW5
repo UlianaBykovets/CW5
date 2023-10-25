@@ -1,0 +1,8 @@
+a=int(input("Enter 1 number"));
+b=int(input("Enter 2 number"));
+if a*b>20:
+    print("Привіт!")
+elif a*b<20:
+    print("Бувайте")
+else:
+    print("йой")
